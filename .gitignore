@@ -6,6 +6,10 @@ backend/node_modules/
 .env
 backend/.env
 
+# MongoDB data directory (DO NOT COMMIT!)
+mongodb-data/
+data/
+
 # OS files
 .DS_Store
 Thumbs.db
