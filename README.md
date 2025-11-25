@@ -1,4 +1,4 @@
-# Task Manager - Full Stack CRUD Application
+# Task Manager - 
 
 **Course:** Full-Stack-Development-1  
 **Assessment:** Activity-Based Assessment  
