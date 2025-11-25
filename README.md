@@ -71,9 +71,9 @@ FSD-1-ABA/
 
 ### Steps
 
-1. **Clone the repository** (already done)
+1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/pprbkt/FSD-1-ABA.git
    cd FSD-1-ABA
    ```
 
